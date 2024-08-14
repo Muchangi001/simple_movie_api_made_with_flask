@@ -1,7 +1,0 @@
-__pycache__/
-.vscode/
-*.pyc
-*.pyo
-*.env
-instance/
-.env/
