@@ -1,5 +1,5 @@
 from flask import Flask,render_template
-from fetchAPIs import fetch_now_playing,fetch_top_rated,fetch_trending,fetch_upcoming
+from fetchAPIs import fetch_now_playing,fetch_top_rated, fetch_trending, fetch_upcoming
 from flask_cors import CORS
 
 
